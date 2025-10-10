@@ -15,5 +15,7 @@ I will use **Perlin noise to animate the vertices of geometric shapes**. Instead
 
 
 Link to the coding: 
-![perlin noise](https://p5js.org/examples/repetition-noise/)
-![blob track](https://openprocessing.org/sketch/2546873)
+
+[perlin noise](https://p5js.org/examples/repetition-noise/)
+
+[blob track](https://openprocessing.org/sketch/2546873)
